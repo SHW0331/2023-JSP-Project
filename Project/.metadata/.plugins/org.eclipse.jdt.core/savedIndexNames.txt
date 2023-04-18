@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+C:\Users\sywok\OneDrive\바탕 화면\Project\.metadata\.plugins\org.eclipse.jdt.core
+449384428.index
